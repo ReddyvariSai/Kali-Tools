@@ -9,9 +9,9 @@
 
 ### [Currently available providers](./md/providers.md)
 
-## Installation ⏬
+## Installation 
 
-### Download for GNU/Linux 🐧 or MacOS 🍎
+### Download for GNU/Linux or MacOS
 
 The default download location is `/usr/local/bin`, but you can change it in the command to use a different location. However, make sure the location is added to your PATH environment variable for easy accessibility.
 
@@ -31,7 +31,7 @@ pacman -S tgpt
 brew install tgpt
 ```
 
-### FreeBSD 😈 
+### FreeBSD 
 
 To install the [port](https://www.freshports.org/www/tgpt):
 ```
@@ -50,7 +50,7 @@ You need to [add the Go install directory to your system's shell path](https://g
 go install github.com/aandrew-me/tgpt/v2@latest
 ```
 
-### Windows 🪟
+### Windows 
 - #### Installation Script 
     Open Powershell, copy and paste the command and press Enter to install.
     ```
@@ -76,7 +76,7 @@ go install github.com/aandrew-me/tgpt/v2@latest
 
 You can download the executable for your operating system, rename it to `tgpt` (or any other desired name), and then execute it by typing `./tgpt` while in that directory. Alternatively, you can add it to your PATH environmental variable and then execute it by simply typing `tgpt`.
 
-## Updating ⬆️
+## Updating 
 If you installed the program with the installation script, you may update it with
 ```bash
 tgpt -u
