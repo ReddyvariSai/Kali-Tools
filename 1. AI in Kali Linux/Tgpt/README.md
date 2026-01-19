@@ -1,6 +1,6 @@
 <img width="317" height="134" alt="tgpt logo" src="https://github.com/user-attachments/assets/ba582404-cd3a-4235-a451-c8a3cc5aef5a" />
 
-
+ 
 # tgpt 🤖
 
 **tgpt** is a Cross-platform Command-Line Interface (CLI) tool that allows you to use AI in your Terminal.
