@@ -3,13 +3,6 @@
 
 # tgpt 🤖
 
-[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/aandrew-me/tgpt)](https://github.com/aandrew-me/tgpt)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/aandrew-me/tgpt)](https://github.com/aandrew-me/tgpt/releases/latest)
-![Arch Linux package](https://img.shields.io/archlinux/v/extra/x86_64/tgpt)
-![Chocolatey Version](https://img.shields.io/chocolatey/v/tgpt)
-![Homebrew Formula Version](https://img.shields.io/homebrew/v/tgpt)
-
-
 **tgpt** is a Cross-platform Command-Line Interface (CLI) tool that allows you to use AI in your Terminal.
 
 <img src="https://github.com/user-attachments/assets/1b554b99-79ca-45b7-87ff-7713b7fd9437" alt="Demo" width="500" height="330">
